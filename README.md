@@ -30,7 +30,8 @@
     -시간 및 위성의 위치 정보를 바탕으로 각 지역의 수신 SNR 값 계싼
     -특정 지역에 대한 위도 및 경도 값을 이용하여 범위에 해당하는 SNR 값 매칭
     
-    <img 폭="1036" height="666" alt="image" src="https://github.com/user-attachments/assets/2a9e07fb-e5dc-466f-81a5-b57265b08730" />
+   <img width="322" height="205" alt="image" src="https://github.com/user-attachments/assets/ba77ee89-7f84-4d96-bb5d-fa9470f8e59b" />
+
 
 ## Case Study
  본 연구는 저궤도 위성을 기반으로 대전 지역에 대하여 군집 모델을 다르게 하여 어떠한 군집 모델을 사용하였을 때 더 좋은 성능을 보이는지 분석하기 위해 연구를 진행하였다.
